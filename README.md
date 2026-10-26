@@ -1,8 +1,12 @@
 <div align="center">
 
-# Pokemon-Brand-Analysis-Project
+# 포켓몬 30주년·브랜드 리뷰 감성 분석
 
-## ⚡ 포켓몬 30주년·브랜드 리뷰 감성 분석
+**Pokemon-Brand-Analysis-Project**
+
+**기술 분류:** 자연어 처리 › 감성·콘텐츠 분류 › 규칙·다국어 모델과 검수
+
+
 
 ### 한·중·일 콘텐츠 비교 · 리뷰 점수 · CSV·Excel·그래프
 
@@ -15,7 +19,33 @@
 
 [빠른 시작](#quick-start) · [저장소 구성](#repository-structure) · [데이터 구성](#data-settings)
 
+[예시 이미지](#preview)
+
 </div>
+
+<a name="preview"></a>
+
+## 🖼️ 예시로 보기
+
+<p align="center"><img src="assets/previews/code-explainer.png" width="900" alt="코드 기반 설명도 · Pokemon-Brand-Analysis-Project" /></p>
+
+**코드 기반 설명도** — `classify_nps()`의 점수별 분류 조건을 설명합니다. 실제 리뷰 원문이나 새 집계값은 사용하지 않았습니다.
+
+[근거 파일 보기](1%EC%B0%A8/brand_nps_auto_pipeline_v2.ipynb)
+
+
+
+<a name="input-processing-output"></a>
+
+## 🔄 입력·처리·출력
+
+| 단계 | 이 프로젝트에서 다루는 내용 |
+| :--- | :--- |
+| 입력 | 브랜드 리뷰·한중일 콘텐츠·수동 CSV |
+| 처리 | 규칙 또는 선택 언어 모델·다국어 감성 분류, 통계와 검수 |
+| 출력 | 분류 CSV·Excel·비교 그래프 |
+
+
 
 ---
 

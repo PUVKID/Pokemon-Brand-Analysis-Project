@@ -1,17 +1,10 @@
 <div align="center">
 
-# ⚡ 포켓몬 30주년·브랜드 리뷰 감성 분석
+# ⚡ Pokémon Brand Analysis Project
 
-**Pokemon-Brand-Analysis-Project**
+포켓몬 관련 리뷰와 콘텐츠를 분류하고 감성 분석 결과를 시각화합니다.
 
 **기술 분류:** 자연어 처리 › 감성·콘텐츠 분류 › 규칙·다국어 모델과 검수
-
-
-
-### ✨ 한·중·일 콘텐츠 비교 · 리뷰 점수 · CSV·Excel·그래프
-
-브랜드 리뷰와 팬덤 콘텐츠를 모아 분류하고, 표와 그래프로 비교합니다.<br>
-리뷰 점수 분석에서 한·중·일 포켓몬 30주년 콘텐츠 분석으로 이어지는 노트북 묶음입니다.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -22,6 +15,26 @@
 [예시 이미지](#preview)
 
 </div>
+
+<a name="overview"></a>
+
+## 🗺️ 한눈에 보는 구성
+
+<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
+보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
+
+## ✨ 최신 차수에서 달라진 점
+
+한·중·일 포켓몬 채널의 목적·메시지·감성·행동의도·토픽을 비교합니다.
+
+기본 노트북의 YouTube 키는 선택 사항이며, 이전 Docker 사본의 인증 조건은 다릅니다. 2차는 확인된 최신 보관본이며 별도 최종 확정을 뜻하지 않습니다.
+
+- 채널 Excel, YouTube·홈페이지 수집, 수동 CSV를 연결하며 수동 입력 템플릿과 보완 경로를 제공합니다.
+- 목적·메시지 유형·행동의도·토픽 및 감성 분류를 수행합니다. 댓글의 표본 구성이 전체 이용자 의견을 대표한다는 보장은 없습니다.
+- Excel 시트 작성과 국가별 그래프·통계 비교, 수동 검토 표본 및 Cohen kappa 계산 경로를 포함합니다.
+
+**자료별 안내:** [1차](docs/versions/first.md) · [2차](docs/versions/latest.md) · [전체 기록](docs/VERSIONS.md)
+
 
 <a name="preview"></a>
 

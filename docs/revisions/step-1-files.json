@@ -1,0 +1,12 @@
+[
+  {
+    "path": "brand_nps_auto_pipeline_v2.ipynb",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 71474,
+      "sha256": "1dffbc1746721ba680704a08997eb4389b46020c5c5544cf751c7351fe5eb390"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  }
+]

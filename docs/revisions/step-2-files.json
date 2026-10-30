@@ -1,0 +1,502 @@
+[
+  {
+    "path": "data/comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 726879,
+      "sha256": "65456519d2881071cfe5ff7ae4d40dbfd157b8486eeaff061d0b2fb0b88de8ed"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "data/hp_all.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 34532,
+      "sha256": "b2916c75290744b47a7e35dd7c53a8f4de6f22e6c7a75ab492eb63f353366b48"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "data/review_sample_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 14186,
+      "sha256": "d5e2df2257776be3db1b83b1a4c882b5e4be72656a539f1b3ac073257a5561c7"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "data/review_sample_hp.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 18617,
+      "sha256": "da31cff9c653bc2a57172490d28767f0783d15078fd42d8043cda045d8596d38"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "data/review_sample_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 26676,
+      "sha256": "47021487bea396629cf8cbc7ec2fd2738a56359b534f657cca1daed560a8142c"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "data/sns_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 419421,
+      "sha256": "e7ffba35ea2fc8d2c3b9471030ed8f9480bcd15a1a737bb9890759245c02800a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_Instagram_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_Instagram_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_X_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_X_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_YouTube_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/일본_YouTube_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/중국_Bilibili_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/중국_Bilibili_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/중국_Weibo_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/중국_Weibo_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_Instagram_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_Instagram_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_X_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_X_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_YouTube_comments.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 45,
+      "sha256": "1f9320851e58736f4160872528fad5c86d3957e158bb11f7e67a51011974b1d3"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "manual/한국_YouTube_posts.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 69,
+      "sha256": "d7c7ab8635443593438b9b567729ea62fb3cd279be6adc4e136b5a0c10dce08a"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "결과/figures/fig01_homepage_format_purpose.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 88027,
+      "sha256": "f1c247d3ecd438c01e556cf36b2588cdee34db6319efd9b02d4f55429c3769ad"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig02_homepage_proposal_types.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 48066,
+      "sha256": "b3510be9604123481de3cee04372d12079ec5bc5186b2c1dd914cc34ced3005e"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig03_message_type.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 79058,
+      "sha256": "c40ae91e9b515b4c732ebe78981e0b79c8ba65122b4bab6684f472bf92322494"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig04_engagement_distribution.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 198975,
+      "sha256": "35e7987bac54fee19160fd184900b589d0da88e1ea48ec46796ea7dfe3e539aa"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig05_engagement_by_strategy.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 85269,
+      "sha256": "e0ac412313e510d9617a035f6af7c09f62b0db059708c4965492de63a9e85eb0"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig06_platform_heatmap.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 41602,
+      "sha256": "50efa67d7bc002941f46bfe4046b71a51452b528a263c8588838a2e43e39fa43"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig07_monthly_trend.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 141122,
+      "sha256": "fe443d08d54a94dceca987414cee7af2cc25d0f1b2f13d70caecb5483a019ef5"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig08_sentiment.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 86156,
+      "sha256": "a225ed987096885440b2e138742355d987fc6a65f89aaba1d6f07b7693316fb3"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig09_intent.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 76496,
+      "sha256": "9ed8ce5ebf9847ffab92405187e7a6c15d09c5d8e039b995b4604ca01f6379f2"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/figures/fig10_topics.png",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 102418,
+      "sha256": "f1714134344a3d7c38fc43b915f1bacc7d7b915da7faec6dd62b1727598aa93b"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "결과/분석결과_통합.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 685350,
+      "sha256": "5eb2878eace55f977fb806b535f9a91dd2671bfed712d9f9440608b0def46739"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "공개집계/README.md",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 633,
+      "sha256": "96c46c878fc6600ed0e4060e7cd690f43b5cbeb704bf905397cbc30bbf505dcb"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "공개집계/분류별_건수.csv",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 1810,
+      "sha256": "62cfdcdeb518eeb50365f03dace4c11237b2a109cfecfff745e742e889e34af1"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "수집결과/일본 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 17510,
+      "sha256": "8cb15088bd18740a00645b28fcb2643d953482db90375aeaffa0c42017a99924"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "수집결과/일본 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 412049,
+      "sha256": "5759eb0dc7bc80aa3a9ff1b32c2a1b69b74d358c3a5b295935d86a3833ec5123"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "수집결과/중국 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 21185,
+      "sha256": "33419d91f32afa6c7299cf9766ca3c80d660cd38cb0322f36b51071d983fc401"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "수집결과/중국 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 23860,
+      "sha256": "548a1b37b501e845f02e08c937d930d388b195d09995d4a2aae32e4a9538fd2d"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "수집결과/한국 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 19451,
+      "sha256": "1502edbf57dbb0d8d80c0a7f6490623cbde25ec0c64c7b4d61a96163d8a59c8c"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "수집결과/한국 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 218382,
+      "sha256": "a0193ec0b1fd8121177234e6492b9bc68e14092457ea2d5bb79cb52c7c17b961"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "일본 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 25959,
+      "sha256": "ac3b623a3978409f445ae6995a56335599517e127f898bd99533d24f3fb1fc5a"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "일본 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 41877,
+      "sha256": "67a27041a206e94d3cfe4dc78ef5cd4af460514104290f0dcf1402c8a871650c"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "중국 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 26020,
+      "sha256": "fba7ca41a7742557e9db9bad9136e40308bc67aee8b9e6ebd500b65d8cde6759"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "중국 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 36048,
+      "sha256": "d0b062ddfe7fd64035391b88399ca7effe7f47efe7cbe78e2fcb2368ae65e930"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "포켓몬30주년_올인원.ipynb",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 100853,
+      "sha256": "7233c23fe1e2e152ab399bc4eb95e8b446f75d73d0df439d196f6d1af769fd8d"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "포켓몬30주년_올인원_이전도커버전.ipynb",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 100949,
+      "sha256": "51ce5d64580d5911f5d0cb93dd2a8f1b0e80ce3d93c65aa848d8f5843e150785"
+    },
+    "kind": "UTF-8 전체 텍스트"
+  },
+  {
+    "path": "한국 30주년 공식 홈페이지 콘텐츠 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 26196,
+      "sha256": "f70b8ae06fdd7abfdeafcd1b301c04930d55423c43c67b14e789928961ec6bf1"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "한국 공식 SNS 게시물 및 정량 반응 분석용 시트.xlsx",
+    "change": "추가",
+    "before": null,
+    "after": {
+      "bytes": 42078,
+      "sha256": "6dd422b2321ba8523038db0f9ed1908e38cf89cf9a76bbbbf8e1575e0a6421d7"
+    },
+    "kind": "바이너리·해시 비교"
+  },
+  {
+    "path": "brand_nps_auto_pipeline_v2.ipynb",
+    "change": "이전에만 존재",
+    "before": {
+      "bytes": 71474,
+      "sha256": "1dffbc1746721ba680704a08997eb4389b46020c5c5544cf751c7351fe5eb390"
+    },
+    "after": null,
+    "kind": "UTF-8 전체 텍스트"
+  }
+]

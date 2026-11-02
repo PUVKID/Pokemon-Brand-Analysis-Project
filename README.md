@@ -12,6 +12,7 @@
 
 [빠른 시작](#quick-start) · [저장소 구성](#repository-structure) · [데이터 구성](#data-settings)
 
+[📚 전체 차수 목차](docs/REVISION_INDEX.md) ·
 [핵심 구성](#input-processing-output)
 
 </div>

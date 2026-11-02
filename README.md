@@ -22,8 +22,8 @@
 
 | 차수·자료 | 내용 | 원본 파일 | 상세·비교 |
 | :--- | :--- | :--- | :--- |
-| **1차** | 리뷰·감성·소셜 NPS 파이프라인 | [📁 열기](1%EC%B0%A8) | [📖 설명](docs/revisions/step-1.md) |
-| **2차** | 한·중·일 수집·분류·시트·집계 | [📁 열기](2%EC%B0%A8) | [📖 설명](docs/revisions/step-2.md) |
+| **1차** | 리뷰·감성·소셜 NPS 파이프라인 | [📁 열기](1%EC%B0%A8) | [📖 설명](docs/revisions/step-1.md) · [전체 비교](docs/revisions/step-1.patch) |
+| **2차** | 한·중·일 수집·분류·시트·집계 | [📁 열기](2%EC%B0%A8) | [📖 설명](docs/revisions/step-2.md) · [전체 비교](docs/revisions/step-2.patch) |
 
 
 
@@ -213,14 +213,4 @@ python -m jupyter lab "2차/포켓몬30주년_올인원.ipynb"
 분류 결과와 보존된 수집 시점을 설명하는 자료입니다. 원문 댓글·게시물을 포함하며, 자동 분류와 사람 검수의 결과를 구분해 읽습니다. 수집 표본의 국가·플랫폼 구성은 전체 이용자 여론을 대표하는 조사 설계와 다릅니다.
 
 
-<details>
-<summary>🧹 공개 자료 정리 기록</summary>
 
-| 검수 대상 | 연결 자료 | 상세·이번 비교 |
-| :--- | :--- | :--- |
-| **1차** | [📁 검수 자료](1%EC%B0%A8) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
-| **2차** | [📁 검수 자료](2%EC%B0%A8) | [📖 정리 내용](docs/publication-review/item-2.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
-
-[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
-
-</details>

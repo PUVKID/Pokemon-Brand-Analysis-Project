@@ -1,24 +1,26 @@
-<div align="center">
+<a id="-2차--한중일-포켓몬-콘텐츠-비교"></a>
 
-# 🌏 2차 · 한·중·일 포켓몬 콘텐츠 비교
+# 2차 · 한·중·일 포켓몬 콘텐츠 비교
 
-**한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의도·토픽을 비교하는 분석 단계입니다.**
+한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의도·토픽을 비교하는 분석 단계입니다.
 
-**기술 분류:** 자연어 처리 › 다국어 콘텐츠 분류 › pandas·Excel·통계·사람 검수
+분야: 자연어 처리 › 다국어 콘텐츠 분류 › pandas·Excel·통계·사람 검수
 
 [목적](#purpose) · [기능](#features) · [입출력](#flow) · [구성](#files) · [준비](#setup) · [사용법](#usage) · [결과](#results) · [제약](#limits) · [변경](#changes)
 
-</div>
-
 <a name="purpose"></a>
 
-## 🎯 이 단계에서 하는 일
+<a id="-이-단계에서-하는-일"></a>
+
+## 연구 목적
 
 노트북은 입력 Excel을 읽고 결과 사본을 작성합니다. 수집과 분류 뒤에는 국가별 표·그래프·통계 검정과 사람 검수 표본을 따로 구성해 자동 분류의 결과를 확인합니다.
 
 <a name="features"></a>
 
-## 🧩 주요 기능과 처리 방식
+<a id="-주요-기능과-처리-방식"></a>
+
+## 방법과 구현
 
 | 구성 | 실제 역할 |
 | --- | --- |
@@ -29,9 +31,11 @@
 
 <a name="flow"></a>
 
-## 🔄 입력 → 처리 → 출력
+<a id="-입력--처리--출력"></a>
 
-| 입력 | 처리 | 출력·읽을 결과 |
+## 입력·처리·출력
+
+| 입력 | 처리 | 출력 |
 | --- | --- | --- |
 | 채널 Excel·수동 CSV | 수집·URL·날짜 정리 | 홈페이지·게시물·댓글 표 |
 | 텍스트와 메타데이터 | 규칙 또는 다국어 감성 모델·수동값 우선 분류 | 분류 CSV·Excel 사본 |
@@ -39,26 +43,32 @@
 
 <a name="files"></a>
 
-## 📁 파일과 핵심 처리
+<a id="-파일과-핵심-처리"></a>
+
+## 파일별 역할
 
 | 파일 | 이용 방법 |
 | --- | --- |
-| [2차/포켓몬30주년_올인원.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) | 설정·함수·실행 셀 |
-| [2차/포켓몬30주년_올인원_이전도커버전.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90_%EC%9D%B4%EC%A0%84%EB%8F%84%EC%BB%A4%EB%B2%84%EC%A0%84.ipynb) | 설정·함수·실행 셀 |
+| [2차/포켓몬 30주년_올인원.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) | 설정·함수·실행 셀 |
+| [2차/포켓몬 30주년_올인원_이전도커버전.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90_%EC%9D%B4%EC%A0%84%EB%8F%84%EC%BB%A4%EB%B2%84%EC%A0%84.ipynb) | 설정·함수·실행 셀 |
 | [2차/공개집계/분류별_건수.csv](../../2%EC%B0%A8/%EA%B3%B5%EA%B0%9C%EC%A7%91%EA%B3%84/%EB%B6%84%EB%A5%98%EB%B3%84_%EA%B1%B4%EC%88%98.csv) | 원정밀도 표 |
 
-### 🔎 함수·셀로 찾아가기
+<a id="-함수셀로-찾아가기"></a>
 
-아래 이름은 해당 파일의 실제 정의입니다. 위 처리 설명과 함께 설정·호출 순서·출력 경로를 따라 읽습니다.
+### 관련 함수와 셀
+
+관련 함수와 셀을 파일별로 정리했습니다. 실행 전 설정과 호출 순서, 출력 경로를 확인하세요.
 
 | 파일 | 핵심 정의 |
 | --- | --- |
-| [2차/포켓몬30주년_올인원.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) | 셀 4: `_kw` · `_count` · `classify_purpose` · `classify_proposals` · `classify_msg_type` · `classify_intent` · `classify_topics` · `_load_sent_model`<br>셀 6: `nfc` · `find_file` · `norm_platform` · `read_channels` · `read_homepage_urls`<br>셀 9: `yt_get` · `yt_uploads_playlist` · `yt_collect_videos` · `yt_collect_comments` · `collect_youtube`<br>셀 11: `collect_bilibili`<br>셀 13: `robots_ok` · `fetch_html` · `_date_in` · `parse_blocks` · `collect_homepage`<br>셀 15: `manual_name` · `make_manual_templates` · `norm_url` · `load_manual`<br>셀 17: `parse_count` |
-| [2차/포켓몬30주년_올인원_이전도커버전.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90_%EC%9D%B4%EC%A0%84%EB%8F%84%EC%BB%A4%EB%B2%84%EC%A0%84.ipynb) | 셀 4: `_kw` · `_count` · `classify_purpose` · `classify_proposals` · `classify_msg_type` · `classify_intent` · `classify_topics` · `_load_sent_model`<br>셀 6: `nfc` · `find_file` · `norm_platform` · `read_channels` · `read_homepage_urls`<br>셀 9: `yt_get` · `yt_uploads_playlist` · `yt_collect_videos` · `yt_collect_comments` · `collect_youtube`<br>셀 11: `collect_bilibili`<br>셀 13: `robots_ok` · `fetch_html` · `_date_in` · `parse_blocks` · `collect_homepage`<br>셀 15: `manual_name` · `make_manual_templates` · `norm_url` · `load_manual`<br>셀 17: `parse_count` |
+| [2차/포켓몬 30주년_올인원.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) | 셀 4: `_kw` · `_count` · `classify_purpose` · `classify_proposals` · `classify_msg_type` · `classify_intent` · `classify_topics` · `_load_sent_model`<br>셀 6: `nfc` · `find_file` · `norm_platform` · `read_channels` · `read_homepage_urls`<br>셀 9: `yt_get` · `yt_uploads_playlist` · `yt_collect_videos` · `yt_collect_comments` · `collect_youtube`<br>셀 11: `collect_bilibili`<br>셀 13: `robots_ok` · `fetch_html` · `_date_in` · `parse_blocks` · `collect_homepage`<br>셀 15: `manual_name` · `make_manual_templates` · `norm_url` · `load_manual`<br>셀 17: `parse_count` |
+| [2차/포켓몬 30주년_올인원_이전도커버전.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90_%EC%9D%B4%EC%A0%84%EB%8F%84%EC%BB%A4%EB%B2%84%EC%A0%84.ipynb) | 셀 4: `_kw` · `_count` · `classify_purpose` · `classify_proposals` · `classify_msg_type` · `classify_intent` · `classify_topics` · `_load_sent_model`<br>셀 6: `nfc` · `find_file` · `norm_platform` · `read_channels` · `read_homepage_urls`<br>셀 9: `yt_get` · `yt_uploads_playlist` · `yt_collect_videos` · `yt_collect_comments` · `collect_youtube`<br>셀 11: `collect_bilibili`<br>셀 13: `robots_ok` · `fetch_html` · `_date_in` · `parse_blocks` · `collect_homepage`<br>셀 15: `manual_name` · `make_manual_templates` · `norm_url` · `load_manual`<br>셀 17: `parse_count` |
 
 <a name="setup"></a>
 
-## ⚙️ 환경과 설정
+<a id="️-환경과-설정"></a>
+
+## 실행 환경과 설정
 
 | 항목 | 조건·기본값 |
 | --- | --- |
@@ -70,7 +80,9 @@
 
 <a name="usage"></a>
 
-## 🚀 준비와 사용 순서
+<a id="-준비와-사용-순서"></a>
+
+## 실행 순서
 
 1. 입력 Excel6개와 DATA_DIR·시트 구조를 확인합니다.
 2. 수집 기간·공식 채널 링크와 API를 사용할 범위를 정하고 미지원 자료는 수동 CSV에 준비합니다.
@@ -80,7 +92,9 @@
 
 <a name="results"></a>
 
-## 📊 결과를 읽는 방법
+<a id="-결과를-읽는-방법"></a>
+
+## 결과와 해석
 
 보관된 data에는 댓글 5585행·게시물 400행·홈페이지 73행이 있습니다. 검수 표본 파일은 댓글 100행·게시물 28행·홈페이지 35행이며, 사람 검수를 모두 마친 건수와 같은 뜻은 아닙니다.
 
@@ -88,7 +102,9 @@
 
 <a name="limits"></a>
 
-## 🛠️ 알려진 제약과 확인 지점
+<a id="️-알려진-제약과-확인-지점"></a>
+
+## 제약과 확인 사항
 
 | 상황 | 확인할 내용 |
 | --- | --- |
@@ -99,14 +115,16 @@
 
 <a name="changes"></a>
 
-## 🔀 이전 단계와의 변화
+<a id="-이전-단계와의-변화"></a>
+
+## 직전 단계와 비교
 
 1차 리뷰·소셜 NPS에서 한·중·일 콘텐츠의 수집·분류·시트·통계 비교로 분석 목적을 확장했습니다.2차 기본 파일과 이전 Docker 사본은 인증 환경변수와 시작일 중복 선언의 차이를 구분합니다.
 
-[🔎 직전 단계 전체 비교·구성](step-2.patch)
+[직전 단계 전체 비교·구성](step-2.patch)
 
 <details>
-<summary>📎 이 단계의 파일 기록과 전체 해시</summary>
+<summary>이 단계의 파일 기록과 전체 해시</summary>
 
 아래 표는 해당 단계가 기록될 당시의 파일 정보입니다. 현재 첨부는 [프로젝트 자료 안내](../../README.md)에서 확인할 수 있습니다.
 
@@ -167,4 +185,4 @@
 
 ---
 
-[🏠 프로젝트](../../README.md) · [🗂️ 전체 차수](../REVISION_INDEX.md) · [📁 자료 폴더](../../2%EC%B0%A8) · [⬅️ 1차](step-1.md)
+[프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md) · [자료 폴더](../../2%EC%B0%A8) · [1차](step-1.md)

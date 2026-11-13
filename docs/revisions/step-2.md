@@ -2427,7 +2427,7 @@ human 열을 채울 표본을 만들고 Cohen κ·일치율을 계산하는 함�
 
 ## 파일별 역할
 
-| 파일 · 이용 방법 |
+| 내용 |
 | --- |
 | **파일**<br>[2차/포켓몬 30주년_올인원.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb)<br><br>**이용 방법**<br>설정·함수·실행 셀 |
 | **파일**<br>[2차/포켓몬 30주년_올인원_이전도커버전.ipynb](../../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90_%EC%9D%B4%EC%A0%84%EB%8F%84%EC%BB%A4%EB%B2%84%EC%A0%84.ipynb)<br><br>**이용 방법**<br>설정·함수·실행 셀 |

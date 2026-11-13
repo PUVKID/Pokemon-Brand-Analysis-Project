@@ -1226,7 +1226,7 @@ Gemini 배치 요청·재시도·배치 분할로 감성 점수를 구하는 별
 
 ## 파일별 역할
 
-| 파일 · 이용 방법 |
+| 내용 |
 | --- |
 | **파일**<br>[1차/brand_nps_auto_pipeline_v2.ipynb](../../1%EC%B0%A8/brand_nps_auto_pipeline_v2.ipynb)<br><br>**이용 방법**<br>설정·함수·실행 셀 |
 

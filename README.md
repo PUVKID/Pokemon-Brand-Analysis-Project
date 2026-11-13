@@ -5,7 +5,7 @@
 **포켓몬 관련 리뷰와 콘텐츠를 분류하고 감성 분석 결과를 시각화합니다.**
 
 <!-- reading-levels17:start -->
-| 읽기 수준 · 안내 내용 |
+| 내용 |
 | --- |
 | **읽기 수준**<br>[LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md)<br><br>**안내 내용**<br>낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
 | **읽기 수준**<br>[LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md)<br><br>**안내 내용**<br>핵심 개념과 처리 흐름의 관계 이해 |
@@ -90,7 +90,7 @@
 
 ## 전체 차수
 
-| 차수 · 자료 폴더 · 상세 설명 · 직전 비교 |
+| 내용 |
 | --- |
 | **차수**<br>1차<br><br>**자료 폴더**<br>[폴더](1%EC%B0%A8)<br><br>**상세 설명**<br>[설명](docs/revisions/step-1.md)<br><br>**직전 비교**<br>[전체 비교](docs/revisions/step-1.patch) |
 | **차수**<br>2차<br><br>**자료 폴더**<br>[폴더](2%EC%B0%A8)<br><br>**상세 설명**<br>[설명](docs/revisions/step-2.md)<br><br>**직전 비교**<br>[전체 비교](docs/revisions/step-2.patch) |
@@ -527,7 +527,7 @@ API 키·서비스 사용 설정·쿼터
 
 ## 원문 수집·분석 자료
 
-| 자료 · 바로 보기 |
+| 내용 |
 | --- |
 | **자료**<br>수집 원자료·검수 표본<br><br>**바로 보기**<br>[CSV 전체](2차/data/) |
 | **자료**<br>채워진 국가별 시트<br><br>**바로 보기**<br>[수집 결과 Excel](2차/수집결과/) |

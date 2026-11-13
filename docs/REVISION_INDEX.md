@@ -10,7 +10,7 @@
 
 [프로젝트 전체 소개](../README.md)
 
-| 차수 · 자료 폴더 · 상세 설명 · 직전 비교 |
+| 내용 |
 | --- |
 | **차수**<br>1차<br><br>**자료 폴더**<br>[폴더](../1%EC%B0%A8)<br><br>**상세 설명**<br>[설명](revisions/step-1.md)<br><br>**직전 비교**<br>[전체 비교](revisions/step-1.patch) |
 | **차수**<br>2차<br><br>**자료 폴더**<br>[폴더](../2%EC%B0%A8)<br><br>**상세 설명**<br>[설명](revisions/step-2.md)<br><br>**직전 비교**<br>[전체 비교](revisions/step-2.patch) |

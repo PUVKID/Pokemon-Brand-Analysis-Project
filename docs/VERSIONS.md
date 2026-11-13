@@ -6,7 +6,7 @@
 **읽기 수준 선택** · [LEVEL 1 - Beginner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
 <!-- reading-levels17:end -->
 
-| 차수·위치 · 파일 수 · 자료 |
+| 내용 |
 | --- |
 | **차수·위치**<br>1차<br><br>**파일 수**<br>1<br><br>**자료**<br>[열기](../1%EC%B0%A8) |
 | **차수·위치**<br>2차<br><br>**파일 수**<br>49<br><br>**자료**<br>[열기](../2%EC%B0%A8) |
@@ -17,7 +17,7 @@
 
 ## 차수별 의미와 근거
 
-| 차수 · 실제 경로 · 목적과 내용 · 근거 |
+| 내용 |
 | --- |
 | **차수**<br>[1차](versions/first.md)<br><br>**실제 경로**<br>`1차`<br><br>**목적과 내용**<br>식품 브랜드 리뷰의 실제 별점 또는 추정 점수를 집계하는 선행 분석입니다.<br><br>**근거**<br>[자료](../1%EC%B0%A8/brand_nps_auto_pipeline_v2.ipynb) |
 | **차수**<br>[2차](versions/latest.md)<br><br>**실제 경로**<br>`2차`<br><br>**목적과 내용**<br>한·중·일 포켓몬 채널의 목적·메시지·감성·행동의도·토픽을 비교합니다.<br><br>**근거**<br>[자료](../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) |

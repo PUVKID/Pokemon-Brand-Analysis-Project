@@ -2,7 +2,11 @@
 
 # 2차
 
-한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의도·토픽을 비교하는 분석 단계입니다.
+<!-- reading-levels17:start -->
+**읽기 수준 선택** · [LEVEL 1 - Beginner](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
+<!-- reading-levels17:end -->
+
+**한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의도·토픽을 비교하는 분석 단계입니다.**
 
 [목적·구성·사용법·결과의 상세 안내](../revisions/step-2.md) · [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md)
 
@@ -20,12 +24,54 @@
 
 ## 연결된 내용
 
-| 구성 | 읽을 내용 |
-| --- | --- |
-| 입력과 수집 | 원본 Excel6개, YouTube·홈페이지와 수동 CSV를 연결합니다. |
-| 분류 | 목적 3종·제안 4종·내부자형/초대형·감성-1/0/1·행동의도 O/X·토픽을 정리합니다. |
-| 시트와 분석 | CSV·Excel 사본, 국가별 그래프와 카이제곱·Kruskal–Wallis·상관 분석을 구성합니다. |
-| 사람 검수 | human 열을 채울 표본을 만들고 Cohen κ·일치율을 계산하는 함수를 제공합니다. |
+<a id="layout18-table-1-row-1"></a>
+
+**입력과 수집**
+
+**구성**
+
+입력과 수집
+
+**읽을 내용**
+
+원본 Excel6개, YouTube·홈페이지와 수동 CSV를 연결합니다.
+
+<a id="layout18-table-1-row-2"></a>
+
+**분류**
+
+**구성**
+
+분류
+
+**읽을 내용**
+
+목적 3종·제안 4종·내부자형/초대형·감성-1/0/1·행동의도 O/X·토픽을 정리합니다.
+
+<a id="layout18-table-1-row-3"></a>
+
+**시트와 분석**
+
+**구성**
+
+시트와 분석
+
+**읽을 내용**
+
+CSV·Excel 사본, 국가별 그래프와 카이제곱·Kruskal–Wallis·상관 분석을 구성합니다.
+
+<a id="layout18-table-1-row-4"></a>
+
+**사람 검수**
+
+**구성**
+
+사람 검수
+
+**읽을 내용**
+
+human 열을 채울 표본을 만들고 Cohen κ·일치율을 계산하는 함수를 제공합니다.
+
 
 <a id="-해석-범위"></a>
 

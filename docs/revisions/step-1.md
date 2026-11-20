@@ -13,7 +13,7 @@
 
 <a id="semantic-review-level-1"></a>
 
-| 항목 | 이 차수의 내용 |
+| 항목 (Category) | 이 차수의 내용 |
 | --- | --- |
 | 목적 | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. |
 | 변경 | 브랜드 리뷰 수집·감성 점수·소셜 NPS를 연결한 1차입니다. |
@@ -111,7 +111,7 @@ google-genai·GOOGLE_API_KEY가 필요하고 모든 리뷰 본문을 외부 API�
 | 별점 없는 리뷰 | 키워드 또는 LLM 점수화 | 1~5점과 감성 단서 |
 | 리뷰 점수 | 추천·중립·비추천 집계 | 소셜 NPS와 그래프 |
 
-| 항목 | 조건·기본값 |
+| 항목 (Category) | 조건·기본값 |
 | --- | --- |
 | 기본 환경 | pandas·requests·BeautifulSoup·Matplotlib·Jupyter |
 | 선택 모델 | google-genai와 본인의 GOOGLE_API_KEY |
@@ -158,7 +158,7 @@ LLM 경로는 리뷰 본문을 외부 API로 보내며, 재시도·배치 분할
 
 <a id="semantic-review-level-2"></a>
 
-| 항목 | 이 차수의 내용 |
+| 항목 (Category) | 이 차수의 내용 |
 | --- | --- |
 | 목적 | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. |
 | 변경 | 브랜드 리뷰 수집·감성 점수·소셜 NPS를 연결한 1차입니다. |
@@ -256,7 +256,7 @@ google-genai·GOOGLE_API_KEY가 필요하고 모든 리뷰 본문을 외부 API�
 | 별점 없는 리뷰 | 키워드 또는 LLM 점수화 | 1~5점과 감성 단서 |
 | 리뷰 점수 | 추천·중립·비추천 집계 | 소셜 NPS와 그래프 |
 
-| 항목 | 조건·기본값 |
+| 항목 (Category) | 조건·기본값 |
 | --- | --- |
 | 기본 환경 | pandas·requests·BeautifulSoup·Matplotlib·Jupyter |
 | 선택 모델 | google-genai와 본인의 GOOGLE_API_KEY |
@@ -303,7 +303,7 @@ LLM 경로는 리뷰 본문을 외부 API로 보내며, 재시도·배치 분할
 
 <a id="semantic-review-level-3"></a>
 
-| 항목 | 이 차수의 내용 |
+| 항목 (Category) | 이 차수의 내용 |
 | --- | --- |
 | 목적 | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. |
 | 변경 | 브랜드 리뷰 수집·감성 점수·소셜 NPS를 연결한 1차입니다. |
@@ -401,7 +401,7 @@ google-genai·GOOGLE_API_KEY가 필요하고 모든 리뷰 본문을 외부 API�
 | 별점 없는 리뷰 | 키워드 또는 LLM 점수화 | 1~5점과 감성 단서 |
 | 리뷰 점수 | 추천·중립·비추천 집계 | 소셜 NPS와 그래프 |
 
-| 항목 | 조건·기본값 |
+| 항목 (Category) | 조건·기본값 |
 | --- | --- |
 | 기본 환경 | pandas·requests·BeautifulSoup·Matplotlib·Jupyter |
 | 선택 모델 | google-genai와 본인의 GOOGLE_API_KEY |
@@ -448,7 +448,7 @@ LLM 경로는 리뷰 본문을 외부 API로 보내며, 재시도·배치 분할
 
 <a id="semantic-review-level-4"></a>
 
-| 항목 | 이 차수의 내용 |
+| 항목 (Category) | 이 차수의 내용 |
 | --- | --- |
 | 목적 | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. |
 | 변경 | 브랜드 리뷰 수집·감성 점수·소셜 NPS를 연결한 1차입니다. |
@@ -546,7 +546,7 @@ google-genai·GOOGLE_API_KEY가 필요하고 모든 리뷰 본문을 외부 API�
 | 별점 없는 리뷰 | 키워드 또는 LLM 점수화 | 1~5점과 감성 단서 |
 | 리뷰 점수 | 추천·중립·비추천 집계 | 소셜 NPS와 그래프 |
 
-| 항목 | 조건·기본값 |
+| 항목 (Category) | 조건·기본값 |
 | --- | --- |
 | 기본 환경 | pandas·requests·BeautifulSoup·Matplotlib·Jupyter |
 | 선택 모델 | google-genai와 본인의 GOOGLE_API_KEY |
@@ -727,7 +727,7 @@ google-genai·GOOGLE_API_KEY가 필요하고 모든 리뷰 본문을 외부 API�
 
 ## 실행 환경과 설정
 
-| 항목 | 조건·기본값 |
+| 항목 (Category) | 조건·기본값 |
 | --- | --- |
 | 기본 환경 | pandas·requests·BeautifulSoup·Matplotlib·Jupyter |
 | 선택 모델 | google-genai와 본인의 GOOGLE_API_KEY |

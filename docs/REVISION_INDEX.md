@@ -10,50 +10,15 @@
 
 [프로젝트 전체 소개](../README.md)
 
-| 차수 | 자료 |
-| --- | --- |
-| 1차 | **자료 폴더** [폴더](../1%EC%B0%A8)<br>**상세 설명** [설명](revisions/step-1.md)<br>**직전 비교** [전체 비교](revisions/step-1.patch) |
-| 2차 | **자료 폴더** [폴더](../2%EC%B0%A8)<br>**상세 설명** [설명](revisions/step-2.md)<br>**직전 비교** [전체 비교](revisions/step-2.patch) |
+| 차수 | 자료 폴더 | 상세 설명 | 직전 비교 |
+| --- | --- | --- | --- |
+| 1차 | [폴더](../1%EC%B0%A8) | [설명](revisions/step-1.md) | [전체 비교](revisions/step-1.patch) |
+| 2차 | [폴더](../2%EC%B0%A8) | [설명](revisions/step-2.md) | [전체 비교](revisions/step-2.patch) |
 
-<a id="layout18-table-1-row-1"></a>
-
-**[1차](revisions/step-1.md)**
-
-**차수·단계**
-
-[1차](revisions/step-1.md)
-
-**주요 내용**
-
-브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다.
-
-**자료**
-
-[폴더](../1%EC%B0%A8)
-
-**직전 비교**
-
-[전체 비교](revisions/step-1.patch)
-
-<a id="layout18-table-1-row-2"></a>
-
-**[2차](revisions/step-2.md)**
-
-**차수·단계**
-
-[2차](revisions/step-2.md)
-
-**주요 내용**
-
-한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의도·토픽을 비교하는 분석 단계입니다.
-
-**자료**
-
-[폴더](../2%EC%B0%A8)
-
-**직전 비교**
-
-[전체 비교](revisions/step-2.patch)
+| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
+| --- | --- | --- | --- |
+| <a id="layout18-table-1-row-1"></a> [1차](revisions/step-1.md) | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다.<br>식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. | [폴더](../1%EC%B0%A8) | [전체 비교](revisions/step-1.patch) |
+| <a id="layout18-table-1-row-2"></a> [2차](revisions/step-2.md) | 한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동의 도·토픽을 비교하는 분석 단계입니다. | [폴더](../2%EC%B0%A8) | [전체 비교](revisions/step-2.patch) |
 
 
 <a id="-자료-이용"></a>

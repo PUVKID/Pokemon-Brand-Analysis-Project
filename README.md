@@ -7,11 +7,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 <!-- reading-levels17:end -->
 
 분야: 자연어 처리 › 감성·콘텐츠 분류 › 규칙·다국어 모델과 검수
@@ -60,10 +60,10 @@
 
 ## 전체 차수
 
-| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
-| --- | --- | --- | --- |
-| <a id="layout18-table-3-row-1"></a> [1차](docs/revisions/step-1.md) | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다.<br>식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. | [폴더](1%EC%B0%A8) | [전체 비교](docs/revisions/step-1.patch) |
-| <a id="layout18-table-3-row-2"></a> [2차](docs/revisions/step-2.md) | 한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다. | [폴더](2%EC%B0%A8) | [전체 비교](docs/revisions/step-2.patch) |
+| 차수·단계 | 주요 내용 | 자료 · 직전 비교 |
+| --- | --- | --- |
+| <a id="layout18-table-3-row-1"></a> [1차](docs/revisions/step-1.md) | 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다.<br>식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다. | [폴더](1%EC%B0%A8)<br>[전체 비교](docs/revisions/step-1.patch) |
+| <a id="layout18-table-3-row-2"></a> [2차](docs/revisions/step-2.md) | 한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다. | [폴더](2%EC%B0%A8)<br>[전체 비교](docs/revisions/step-2.patch) |
 
 
 <a name="introduction"></a>
@@ -257,9 +257,9 @@ python -m jupyter lab "2차/포켓몬30주년_올인원.ipynb"
 <a id="-1차--리뷰-감성과-소셜-nps-파이프라인"></a>
 
 <details>
-<summary>1차·리뷰 감성과 소셜 NPS 파이프라인</summary>
+<summary><strong>1차·리뷰 감성과 소셜 NPS 파이프라인</strong></summary>
 
-### 1차·리뷰 감성과 소셜 NPS 파이프라인
+<a id="1차리뷰-감성과-소셜-nps-파이프라인"></a>
 
 브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다.
 
@@ -295,9 +295,9 @@ LLM 경로는 리뷰 본문을 외부 API로 보내며, 재시도·배치 분할
 </details>
 
 <details>
-<summary>2차·한·중·일 포켓몬 콘텐츠 비교</summary>
+<summary><strong>2차·한·중·일 포켓몬 콘텐츠 비교</strong></summary>
 
-### 2차·한·중·일 포켓몬 콘텐츠 비교
+<a id="2차한중일-포켓몬-콘텐츠-비교"></a>
 
 한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다.
 

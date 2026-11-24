@@ -5,6 +5,9 @@
 <!-- reading-levels17:start -->
 **읽기 수준** · [LEVEL 1](#reading-level-1) · [LEVEL 2](#reading-level-2) · [LEVEL 3](#reading-level-3) · [LEVEL 4](#reading-level-4) · [LEVEL 5](#reading-level-5)
 
+<details open>
+<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
+
 <a id="reading-level-1"></a>
 
 ## LEVEL 1 - Beginner
@@ -74,6 +77,12 @@
 | <a id="layout18-table-4-row-4"></a> 증상별 확인 점 | Excel 오류는 DATA_DIR·파일/시트,YouTube 실패는 키·서비스 설정·쿼터, 빈 웹 수집은 페이지 구조·JS·접근 조건을 확인합니다.<br>미지원 채널은 manual CSV, 감성 차이는 모델/사전/사람 표본, 한글 오류는 폰트 설정을 봅니다. |
 
 [동일 수준 프로젝트 안내](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
 
 <a id="reading-level-2"></a>
 
@@ -145,6 +154,12 @@
 
 [동일 수준 프로젝트 안내](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
+
 <a id="reading-level-3"></a>
 
 ## LEVEL 3 - Practitioner
@@ -215,6 +230,12 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 
 [동일 수준 프로젝트 안내](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+
 <a id="reading-level-4"></a>
 
 ## LEVEL 4 - Advanced
@@ -284,6 +305,12 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 | <a id="layout18-table-31-row-4"></a> 증상별 확인 점 | Excel 오류는 DATA_DIR·파일/시트,YouTube 실패는 키·서비스 설정·쿼터, 빈 웹 수집은 페이지 구조·JS·접근 조건을 확인합니다.<br>미지원 채널은 manual CSV, 감성 차이는 모델/사전/사람 표본, 한글 오류는 폰트 설정을 봅니다. |
 
 [동일 수준 프로젝트 안내](../%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -550,3 +577,6 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 
 
 <a id="layout18-table-14-row-1"></a><a id="layout18-table-14-row-2"></a><a id="layout18-table-14-row-3"></a><a id="layout18-table-14-row-4"></a><a id="layout18-table-18-row-1"></a><a id="layout18-table-18-row-2"></a><a id="layout18-table-18-row-3"></a><a id="layout18-table-18-row-4"></a><a id="layout18-table-23-row-1"></a><a id="layout18-table-23-row-2"></a><a id="layout18-table-23-row-3"></a><a id="layout18-table-23-row-4"></a><a id="layout18-table-27-row-1"></a><a id="layout18-table-27-row-2"></a><a id="layout18-table-27-row-3"></a><a id="layout18-table-27-row-4"></a><a id="layout18-table-32-row-1"></a><a id="layout18-table-32-row-2"></a><a id="layout18-table-32-row-3"></a><a id="layout18-table-32-row-4"></a><a id="layout18-table-36-row-1"></a><a id="layout18-table-36-row-2"></a><a id="layout18-table-36-row-3"></a><a id="layout18-table-36-row-4"></a><a id="layout18-table-5-row-1"></a><a id="layout18-table-5-row-2"></a><a id="layout18-table-5-row-3"></a><a id="layout18-table-5-row-4"></a><a id="layout18-table-9-row-1"></a><a id="layout18-table-9-row-2"></a><a id="layout18-table-9-row-3"></a><a id="layout18-table-9-row-4"></a>
+
+</details>
+

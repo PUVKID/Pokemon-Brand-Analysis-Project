@@ -4,7 +4,7 @@
 
 <!-- reading-levels17:start -->
 <details>
-<summary><strong>읽기 수준 선택</strong></summary>
+<summary>읽기 수준 선택</summary>
 
 | 레벨 | 읽는 목적 |
 | --- | --- |
@@ -17,7 +17,7 @@
 </details>
 <!-- reading-levels17:end -->
 
-**한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다.**
+한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다.
 
 [목적·구성·사용법·결과의 상세 안내](../revisions/step-2.md) · [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md)
 

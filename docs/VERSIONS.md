@@ -4,7 +4,7 @@
 
 <!-- reading-levels17:start -->
 <details>
-<summary><strong>읽기 수준 선택</strong></summary>
+<summary>읽기 수준 선택</summary>
 
 | 레벨 | 읽는 목적 |
 | --- | --- |
@@ -33,7 +33,7 @@
 | [1차](versions/first.md) | `1차` | 식품 브랜드 리뷰의 실제 별점 또는 추정 점수를 집계하는 선행 분석입니다. | [자료](../1%EC%B0%A8/brand_nps_auto_pipeline_v2.ipynb) |
 | [2차](versions/latest.md) | `2차` | 한·중·일 포켓몬 채널의 목적·메시지·감성·행동의도·토픽을 비교합니다. | [자료](../2%EC%B0%A8/%ED%8F%AC%EC%BC%93%EB%AA%AC30%EC%A3%BC%EB%85%84_%EC%98%AC%EC%9D%B8%EC%9B%90.ipynb) |
 
-**각 안내는 자료의 역할과 실행·평가 범위를 설명합니다.** 새 실험은 수행하지 않았습니다.
+각 안내는 자료의 역할과 실행·평가 범위를 설명합니다. 새 실험은 수행하지 않았습니다.
 
 <a id="️-분석-방식-비교"></a>
 

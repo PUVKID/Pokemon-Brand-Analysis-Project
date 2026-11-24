@@ -2,16 +2,16 @@
 
 # Pokémon Brand Analysis Project
 
-**포켓몬 관련 리뷰와 콘텐츠를 분류하고 감성 분석 결과를 시각화합니다.**
+포켓몬 관련 리뷰와 콘텐츠를 분류하고 감성 분석 결과를 시각화합니다.
 
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 <!-- reading-levels17:end -->
 
 분야: 자연어 처리 › 감성·콘텐츠 분류 › 규칙·다국어 모델과 검수
@@ -257,7 +257,7 @@ python -m jupyter lab "2차/포켓몬30주년_올인원.ipynb"
 <a id="-1차--리뷰-감성과-소셜-nps-파이프라인"></a>
 
 <details>
-<summary><strong>1차·리뷰 감성과 소셜 NPS 파이프라인</strong></summary>
+<summary>1차·리뷰 감성과 소셜 NPS 파이프라인</summary>
 
 <a id="1차리뷰-감성과-소셜-nps-파이프라인"></a>
 
@@ -295,7 +295,7 @@ LLM 경로는 리뷰 본문을 외부 API로 보내며, 재시도·배치 분할
 </details>
 
 <details>
-<summary><strong>2차·한·중·일 포켓몬 콘텐츠 비교</strong></summary>
+<summary>2차·한·중·일 포켓몬 콘텐츠 비교</summary>
 
 <a id="2차한중일-포켓몬-콘텐츠-비교"></a>
 

@@ -3,10 +3,10 @@
 # 2차·한·중·일 포켓몬 콘텐츠 비교
 
 <!-- reading-levels17:start -->
-**읽기 수준** · [LEVEL 1](#reading-level-1) · [LEVEL 2](#reading-level-2) · [LEVEL 3](#reading-level-3) · [LEVEL 4](#reading-level-4) · [LEVEL 5](#reading-level-5)
+읽기 수준 · [LEVEL 1](#reading-level-1) · [LEVEL 2](#reading-level-2) · [LEVEL 3](#reading-level-3) · [LEVEL 4](#reading-level-4) · [LEVEL 5](#reading-level-5)
 
 <details open>
-<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
+<summary>LEVEL 1 · Beginner — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -24,7 +24,7 @@
 
 ### LEVEL 1·2차수집과 자동 분류의 준비
 
-**1차는 식품 리뷰,2차는 한·중·일 포켓몬 채널 자료입니다.** 이미 보관된 표를 읽는 일과 새로 자료를 모으는 일은 다릅니다. 먼저 Excel6개와 폴더를 맞추고 사용할 채널·기간·선택 기능을 고른 뒤 순서대로 실행하세요.
+1차는 식품 리뷰,2차는 한·중·일 포켓몬 채널 자료입니다. 이미 보관된 표를 읽는 일과 새로 자료를 모으는 일은 다릅니다. 먼저 Excel6개와 폴더를 맞추고 사용할 채널·기간·선택 기능을 고른 뒤 순서대로 실행하세요.
 
 | 조건·자료 | 의미와 확인 방법 |
 | --- | --- |
@@ -53,7 +53,7 @@
 
 ### LEVEL 1 · 사람 검수와 저장 결과의 의미
 
-**표본을 뽑아 놓은 것과 사람이 판정한 것은 다릅니다.** 원문과 자동 분류를 읽고 human 열을 채운 뒤에야 사람의 판단과 비교할 수 있습니다. 그래프만 보기 전에 어느 자료를 몇 건 검수했는지 확인하세요.
+표본을 뽑아 놓은 것과 사람이 판정한 것은 다릅니다. 원문과 자동 분류를 읽고 human 열을 채운 뒤에야 사람의 판단과 비교할 수 있습니다. 그래프만 보기 전에 어느 자료를 몇 건 검수했는지 확인하세요.
 
 | 조건·자료 | 의미와 확인 방법 |
 | --- | --- |
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+<summary>LEVEL 2 · Explorer — 구성과 연결 원리</summary>
 
 <a id="reading-level-2"></a>
 
@@ -158,7 +158,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
+<summary>LEVEL 3 · Practitioner — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -234,7 +234,7 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 </details>
 
 <details>
-<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+<summary>LEVEL 4 · Advanced — 구현·설계·실패 처리</summary>
 
 <a id="reading-level-4"></a>
 
@@ -310,7 +310,7 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 </details>
 
 <details>
-<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
+<summary>LEVEL 5 · Expert — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -376,7 +376,7 @@ data의 원자료와 검수 파일을 구분하고 human 열의 채움 상태를
 
 <!-- reading-levels17:end -->
 
-**한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다.**
+한국·중국·일본의 홈페이지·SNS·댓글을 수집하거나 수동 CSV로 보완하고 목적·메시지·감성·행동 의도·토픽을 비교하는 분석 단계입니다.
 
 분야: 자연어 처리 › 다국어 콘텐츠 분류 › pandas·Excel·통계·사람 검수
 

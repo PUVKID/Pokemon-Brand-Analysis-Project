@@ -3,10 +3,10 @@
 # 1차·리뷰 감성과 소셜 NPS 파이프라인
 
 <!-- reading-levels17:start -->
-**읽기 수준** · [LEVEL 1](#reading-level-1) · [LEVEL 2](#reading-level-2) · [LEVEL 3](#reading-level-3) · [LEVEL 4](#reading-level-4) · [LEVEL 5](#reading-level-5)
+읽기 수준 · [LEVEL 1](#reading-level-1) · [LEVEL 2](#reading-level-2) · [LEVEL 3](#reading-level-3) · [LEVEL 4](#reading-level-4) · [LEVEL 5](#reading-level-5)
 
 <details open>
-<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
+<summary>LEVEL 1 · Beginner — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -24,7 +24,7 @@
 
 ### LEVEL 1·1차 식품 리뷰의 점수와 소셜 NPS
 
-리뷰의 별점이 있으면 그 점수를 먼저 읽고 없을 때만 문장으로 점수를 추정합니다. **3점 안에는 실제 중립뿐 아니라 API 실패도 들어갈 수 있습니다.** 추천 비율에서 비추천 비율을 뺀 값이 어떤 입력과 규칙에서 나왔는지 먼저 확인하세요.
+리뷰의 별점이 있으면 그 점수를 먼저 읽고 없을 때만 문장으로 점수를 추정합니다. 3점 안에는 실제 중립뿐 아니라 API 실패도 들어갈 수 있습니다. 추천 비율에서 비추천 비율을 뺀 값이 어떤 입력과 규칙에서 나왔는지 먼저 확인하세요.
 
 | 조건·자료 | 의미와 확인 방법 |
 | --- | --- |
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+<summary>LEVEL 2 · Explorer — 구성과 연결 원리</summary>
 
 <a id="reading-level-2"></a>
 
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
+<summary>LEVEL 3 · Practitioner — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -105,7 +105,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+<summary>LEVEL 4 · Advanced — 구현·설계·실패 처리</summary>
 
 <a id="reading-level-4"></a>
 
@@ -138,7 +138,7 @@
 </details>
 
 <details>
-<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
+<summary>LEVEL 5 · Expert — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -161,7 +161,7 @@
 
 <!-- reading-levels17:end -->
 
-**브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다.** 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다.
+브랜드 리뷰를 수집하고 별점 또는 감성 점수로 추천·중립·비추천 비율을 계산하는 선행 분석 노트북입니다. 식품 브랜드 리뷰를 입력으로 사용한 실험 흐름을 담았습니다.
 
 분야: 자연어 처리 › 리뷰 감성 점수화 › 키워드·선택 LLM과 소셜 NPS
 

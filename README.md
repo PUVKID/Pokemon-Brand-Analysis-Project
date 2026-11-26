@@ -21,7 +21,7 @@
   <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
-  <img src="assets/readme/flow-ko-light.svg" alt="Pokémon Brand Analysis Project: 채널 · 리뷰 → 분류 · 감성 · 검수 → CSV · 비교 그래프" width="100%" />
+  <img src="assets/readme/flow-ko-light.svg" alt="채널 · 리뷰: 한·중·일 콘텐츠와 수동 CSV → 분류 · 감성 · 검수: 콘텐츠 분류·다국어 감성·검수 → CSV · 비교 그래프: CSV·Excel과 국가별 비교 그래프" width="100%" />
 </picture>
 <!-- readme-header32:end -->
 

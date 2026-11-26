@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-국가플랫폼별-분류-집계"></a>
 
 # 국가·플랫폼별 분류 집계

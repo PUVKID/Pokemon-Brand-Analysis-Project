@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-2차--한중일-포켓몬-콘텐츠-비교"></a>
 
 # 2차·한·중·일 포켓몬 콘텐츠 비교

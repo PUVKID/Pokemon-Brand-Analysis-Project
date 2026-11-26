@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="-1차--리뷰-감성과-소셜-nps-파이프라인"></a>
 
 # 1차·리뷰 감성과 소셜 NPS 파이프라인
